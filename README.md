@@ -1,6 +1,8 @@
 # Text_Transformations
 
-#### NOTE: This repo contains all the extra credit assignmnets
+#### NOTE: 
+#####    1. This repo contains all the extra credit assignmnets
+#####    2. I did all this work on my own by re-running each code line
 
 #### **** Implemented in keras, GPT2, BERT *****
 
