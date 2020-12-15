@@ -6,7 +6,9 @@
 
 #### **** Implemented in keras, GPT2, BERT *****
 
+#### Pre-requisites for running this notebooks 
 
+### Ran text extraction with bert in TPU mode of colab
 
 [EXAMPLES FROM](https://keras.io/examples/nlp/text_classification_with_transformer/)
 
