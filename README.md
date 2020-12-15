@@ -13,7 +13,7 @@
 ### 1. Pre-requisites for running this notebooks: I Ran text extraction with bert in TPU mode of colab and rest of all the notebooks in GPU mode
 ### 2. To run semantic similarity using BERT, GPT and GLOve you need to install allennlp==0.4.2 version 
 
-I tried to fix the error in exsisting code using this [solution link](https://stackoverflow.com/questions/62884591/modulenotfounderror-no-module-named-allennlp-commands-elmo)
+I tried to fix the error in existing versioning code using this [solution link](https://stackoverflow.com/questions/62884591/modulenotfounderror-no-module-named-allennlp-commands-elmo)
 
 [EXAMPLES FROM](https://keras.io/examples/nlp/text_classification_with_transformer/)
 
